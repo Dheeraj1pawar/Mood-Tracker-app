@@ -12,4 +12,4 @@ Track your daily moods with music, history, and a simple UI.
 ![Screenshot2](screenshots/about.png)
 
 ## ⬇️ Download APK
-👉 [Download MoodTracker v1.0](https://github.com/Dheeraj1Pawar/MoodTracker/download/MoodTracker.apk)
+👉 [Download MoodTracker v1.0](https://github.com/Dheeraj1Pawar/MoodTracker/Mood Tracker.apk)
