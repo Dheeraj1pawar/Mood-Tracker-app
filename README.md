@@ -9,7 +9,7 @@ Built entirely using **AIDE** on Android.
 👉 [Click here to download MoodTracker v1.0.0](https://github.com/Dheeraj1pawar/MoodTracker/releases/latest/download/MoodTracker.apk)  
 
 *(If link doesn’t work, check the [Releases page](https://github.com/Dheeraj1pawar/MoodTracker/releases))*  
-
+- If download link does not work Check Out myapps Under Relase At Bottom of Page
 ---
 
 ## ✨ Features
@@ -31,3 +31,4 @@ Built entirely using **AIDE** on Android.
 ## 🙌 Credits
 - Music: *Relaxing Guitar* from [Pixabay](https://pixabay.com/)  
 - Developer: Dheeraj Pawar
+
